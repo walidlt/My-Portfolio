@@ -182,7 +182,7 @@ section {
 
 #portfolio .gimbo {
   height: 250px;
-  background-image: url(../../Images/GIMBO.png);
+  background-image: url("https://raw.githubusercontent.com/walidlt/my-portfolio/master/Images/GIMBO.png");
   background-size: cover;
   background-position: center;
   background-size: 95%;
@@ -196,7 +196,7 @@ section {
 
 #portfolio .host {
   height: 250px;
-  background-image: url(../../Images/GGhost.png);
+  background-image: url("https://raw.githubusercontent.com/walidlt/my-portfolio/master/Images/GGhost.png");
   background-size: 85%;
   background-position: center;
   cursor: pointer;
@@ -209,7 +209,7 @@ section {
 
 #portfolio .blog {
   height: 250px;
-  background-image: url(../../Images/Blog.png);
+  background-image: url("https://raw.githubusercontent.com/walidlt/my-portfolio/master/Images/Blog.png");
   background-size: cover;
   background-position: center;
   background-size: 85%;
