@@ -47,11 +47,11 @@ section {
 
 .bg-light .navbar-brand img {
   transition: all 0.5s ease-in-out;
-  transform: scale(0.6);
+  transform: scale(0.8);
 }
 
 .bg-light .navbar-brand img:hover {
-  transform: scale(0.7) rotate(360deg);
+  transform: scale(0.9) rotate(360deg);
 }
 
 .bg-light .navbar-nav .nav-item {
