@@ -23,21 +23,21 @@ $(document).ready(function () {
 
     $(".blog").click(function () {
 
-        window.open("https://walidlt.github.io/MyBlog-First/");
+        window.open("https://walidlt.github.io/my-web-blog/");
     });
     $(".host").click(function () {
 
-        window.open("https://walidlt.github.io/My-hosting/");
+        window.open("https://walidlt.github.io/my-gghosting/");
     });
     $(".gimbo").click(function () {
 
-        window.open("https://walidlt.github.io/Gimbo-Site/");
+        window.open("https://walidlt.github.io/my-ecom/");
     });
 
     $(".submit").click(function (e) {
 
         e.preventDefault();
-        window.open("https://www.facebook.com/walid.lat2017");
+        window.open("https://www.facebook.com/Walid.l.div");
     });
 
 
